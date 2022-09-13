@@ -1,6 +1,6 @@
 ## Ссылки
 
-Ведомость: TBA
+Ведомость: [TBA](https://docs.google.com/spreadsheets/d/1vfAQxIluCHa0oERst2FGqviX_dBbGlQX8dDOtg1jMW8/edit)
 
 ## Описание курса
 
