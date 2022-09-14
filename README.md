@@ -2,6 +2,9 @@
 
 Ведомость: [link](https://docs.google.com/spreadsheets/d/1vfAQxIluCHa0oERst2FGqviX_dBbGlQX8dDOtg1jMW8/edit)
 
+Слайды:
+- [Лекция 1. Intro](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-01.pdf)
+
 ## Описание курса
 
 Первая часть курса дает базовые знания и навыки для написания программ с помощью **С++**. Для освоения курса необходимо быть уверенным пользователем вашей любимой ОС и иметь базовое представление о системе контроля версий `git`.
