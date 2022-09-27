@@ -4,6 +4,8 @@
 
 Слайды:
 - [Лекция 1. Intro](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-01.pdf)
+- [Лекция 2. ](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-02.pdf)
+- [Лекция 3. Statements. References. Heap. Linkage](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-03.pdf)
 
 ## Описание курса
 
