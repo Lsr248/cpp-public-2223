@@ -9,6 +9,8 @@
 - [Лекция 4. Functions](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-04.pdf)
 - [Лекция 5. Classes: Basic; Enumerations](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-05.pdf)
 - [Лекция 6. Classes: Alignment, Padding, new-delete, Inheritance; Namespaces](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-06.pdf)
+- [Лекция 7. Classes: Multiple Inheritance](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-06.pdf)
+- [Лекция 8. Templates](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-06.pdf)
 
 ## Описание курса
 
