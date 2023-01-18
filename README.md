@@ -11,7 +11,7 @@
 - [Лекция 6. Classes: Alignment, Padding, new-delete, Inheritance; Namespaces](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-06.pdf)
 - [Лекция 7. Classes: Multiple Inheritance](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-07.pdf)
 - [Лекция 8. Templates](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-08.pdf)
-- [Лекция 9. Value Categories, Move Semantics, Perfect Forwarding](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-09.adoc)
+- [Лекция 9. Value Categories, Move Semantics, Perfect Forwarding](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-09.pdf)
 - [Лекция 10. Universal references. Perfect Forwarding](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-10.pdf)
 - [Лекция 11. Lamda expressions. STL functional objects](https://github.com/cpp-practice/cpp-public-2223/blob/main/semester-1/lec-01-11.pdf)
 
